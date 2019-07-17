@@ -1,4 +1,4 @@
-package com.mkyong.model;
+package com.anjali.model;
 
 import java.math.BigDecimal;
 import java.util.Date;

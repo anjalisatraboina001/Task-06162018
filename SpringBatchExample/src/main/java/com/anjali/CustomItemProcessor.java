@@ -1,8 +1,8 @@
-package com.mkyong;
+package com.anjali;
 
 import org.springframework.batch.item.ItemProcessor;
 
-import com.mkyong.model.Report;
+import com.anjali.model.Report;
 
 public class CustomItemProcessor implements ItemProcessor<Report, Report> {
 
